@@ -1,18 +1,18 @@
 # Purpose of this Analysis 
 
-The purpose of this analysis is to be displayed to potential investors for the initiation of a bike sharing business. The data analyzed is base on the city of NY where this idea initiated. 
+The purpose of this analysis is to be display business information to potential investors for the initiation of a bike sharing business. The data analyzed is base on the city of NY where the idea originated.
 
 # Results of the Analysis 
-The First analysis we preformed was the number of rided, that way we are able to display the size of the market to our investor. 
+The First analysis we preformed was the number of rides, that way we are able to display the size of the market to our investor.  
 
 <img src="https://github.com/carolinamedina26/bikesharing/blob/main/Resources/Number%20of%20Rides.png">
 
-Followed by that information, we wanted to display the proportion of regular and subscriber customers. The result displayed 1,900,356 as subscribers and 443,865 regular customers, which translated to a constant flow of customer all year around. 
+Later on, we wanted to display the proportion of regular and subscriber customers. The result displayed 1,900,356 as subscribers and 443,865 regular customers, which translated to a constant flow of customer all year around. 
 
 <img src="https://github.com/carolinamedina26/bikesharing/blob/main/Resources/Customer-Subscribers.png">
 <img src="https://github.com/carolinamedina26/bikesharing/blob/main/Resources/Single%20Customers.png">
 
-Further more we preform a deep drive to our data and created the following reports: 
+Furthermore, we preform a deep drive into our data and created the following reports: 
 <img src="https://github.com/carolinamedina26/bikesharing/blob/main/Resources/Checkout%20times%20for%20users.png">
 
 <img src="https://github.com/carolinamedina26/bikesharing/blob/main/Resources/Checkout%20times%20by%20gender.png">
